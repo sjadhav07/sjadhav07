@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**sjadhav07/sjadhav07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on [current project or job]
+- 🌱 I’m currently learning [languages, technologies, or skills]
+- 👯 I’m looking to collaborate on [open source projects or interesting ideas]
+- 💬 Ask me about [areas of expertise or interests]
+- 📫 How to reach me: [contact information]
+- 😄 Pronouns: [your preferred pronouns]
+- ⚡ Fun fact: [interesting fact about yourself]
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?sjadhav07=yourusername&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?sjadhav07=yourusername&layout=compact&theme=dark)
+
